@@ -48,12 +48,6 @@ Busco evoluir para áreas como:
 - Recomendações de upgrades
 - Apoio em infraestrutura
 
-## 📈 Estatísticas
-
-![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorAucar&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorAucar&layout=compact&theme=dark)
-
 
 ## 📫 Contato
 
